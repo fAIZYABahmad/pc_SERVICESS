@@ -1,0 +1,97 @@
+<hr>
+<Section class="beackground-secend"
+    <div class="heading-main">
+           <h1>We Provide</h1>
+    </div>
+    <div class="fatures">
+        <div class="setup">
+            <h2>Setup you Computer</h2>
+          <img class="setup-img" src="images/setup icon.PNG" alt="">
+        </div>
+        
+        <div class="clean-up">
+          <h2>Clean Up Services</h2>
+          <div class="Clean Up Services">
+            <img class="clean-img" src="images/clean up.png" alt="">
+          </div>
+        </div>
+          <div class="Security-pc">
+            <h2>Security Of Your Computer</h2>
+            <div class="Security">
+              <img class="Security-img" src="images/cyber-security.png" alt=""
+            </div>
+          </div>
+            <div class="Upgrade">
+              <h2>Upgrade Your Computer</h2>
+              <div class="Upgrade-whole">
+                <img class="upgrade-img" src="images/upgrade.png" alt="">
+
+              </div>
+            </div>  
+              <div class="Update">
+                  <h2>Get Your Self Updated</h2>
+                  <div class="Update">
+                    <img class="Update-img" src="images/update.png" alt="">
+                  </div>
+              </div>  
+              <div class="Networking">
+                <h2>We Provide You Network</h2>
+                <div class="network-">
+                  <img class="network-img" src="images/webside icon.png" alt="">
+                </div>
+            </div>  
+                  <hr>
+          <div class="contact-me">
+            <h2>Get In Touch</h2>
+            <h3>Lorem ipsum dolor sit amet, non elit.</h3>
+            <p>Lorem ipsum dolor sit amet, in quis, aenean amet. Phasellus sodales, tellus donec dui, ornare erat.</p>
+            <a class="btn" href="mailto:name@email.com">CONTACT ME</a>
+          </div>
+        </div>
+</section>  
+
+        
+        
+        <div class="bottom-container">
+          <a class="footer-link" href="https://www.linkedin.com/">LinkedIn</a>
+          <a class="footer-link" href="https://twitter.com/">Twitter</a>
+          <a class="footer-link" href="https://www.appbrewery.co/">Website</a>
+          <p>© 2018 Name Surname.</p>
+        </div>
+        
+ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,<    
+  .heading h1{
+    color: aqua;
+   }
+   .fatures {
+     background-color: #e44848;
+     height: 500px;
+   }
+   .setup-img {
+     position: relative;
+     left: 200px;
+   }
+   .clean-img {
+     position: relative;
+     left: 550px;
+     bottom: 200px;
+   }
+   .Security-img {
+     position: relative;
+     left: 920px;
+     bottom: 400px;
+   }
+   .upgrade-img {
+     position: relative;
+     bottom: 350px;
+     left: 200px;
+   }
+   .Update-img {
+     position: relative;
+     bottom: 570px;
+     left: 550px;
+   }
+   .network-img {
+     position: 
+   }
+   
